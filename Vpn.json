@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "07fa23d3540a8706",
+    "username": "tech99",
+    "password": "tech99",
+    "expiresAt": "2026-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
